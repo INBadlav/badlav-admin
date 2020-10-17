@@ -1,0 +1,10 @@
+.header-title{
+    font-family: 'Manrope', sans-serif !important;
+    padding-top:5px;
+    font-size:24px;
+    font-weight: bold;
+}
+.nav-link{
+    color:#1e1e1e;
+    text-decoration: none;
+}
